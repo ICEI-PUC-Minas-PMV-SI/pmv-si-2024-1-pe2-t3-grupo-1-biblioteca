@@ -1,18 +1,16 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Saldanha de Lima
+    given-names: Ana Carolina 
+  - family-names: Amorim
+    given-names: Cristiano Henrique 
+  - family-names: Raymundo Borges
+    given-names: João Alberto
+  - family-names: Teixeira Silva
+    given-names: Pedro Augusto 
+  - family-names: da Silva
+    given-names: Rafael Vinícius 
     
   - name-suffix: Professor
     affiliation: PUC Minas
