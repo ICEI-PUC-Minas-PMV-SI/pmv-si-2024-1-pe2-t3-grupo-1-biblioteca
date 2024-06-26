@@ -10,13 +10,14 @@ frequentadores. Com recursos que vão desde o cadastro detalhado de livros até 
 da operação bibliotecária.
 
 Integrantes:
-Rafael Vinícius da Silva/
 
-Pedro Augusto Teixeira/ 
+Rafael Vinícius da Silva
 
-Cristiano Henrique Amorim/
+Pedro Augusto Teixeira 
 
-João Alberto/ 
+Cristiano Henrique Amorim
+
+João Alberto
 
 Anna Carolina Saldanha de Lima
 
