@@ -3,6 +3,6 @@
 Liste os artefatos produzidos, com suas localizações e descrição do conteúdo.
 
 
-* `/processos` - Pasta com os modelos de processo de negócio.
-* `/dados ` - Pasta com os modelos de dados.
+* artefatos/processos - Pasta com os modelos de processo de negócio.
+* artefatos/dados - Pasta com os modelos de dados.
 
