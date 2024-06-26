@@ -9,7 +9,7 @@ oferecer uma experiência completa, tanto para os funcionários da biblioteca qu
 frequentadores. Com recursos que vão desde o cadastro detalhado de livros até a classificação de membros com base em seu comportamento de empréstimo, o Saber+ otimiza cada aspecto
 da operação bibliotecária.
 
-Integrantes:
+* Integrantes:
 
 Rafael Vinícius da Silva
 
@@ -21,6 +21,6 @@ João Alberto
 
 Anna Carolina Saldanha de Lima
 
-Professora:
+* Professora:
 
 Juliana Amaral Baroni de Carvalho
