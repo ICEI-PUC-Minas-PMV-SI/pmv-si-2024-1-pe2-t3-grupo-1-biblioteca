@@ -33,10 +33,11 @@ keywords:
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t3-grupo-2-biblioteca"
+title: "SABER+"
 abstract: |
-    "
-   O "Saber+" é um sistema completo dedicado à organização e gestão eficiente de bibliotecas. Desenvolvido para atender às necessidades específicas de bibliotecários e usuários, é uma ferramenta poderosa que simplifica o gerenciamento de acervo, o cadastro de membros e a facilitação do acesso à informação. Este sistema inovador vai além de simplesmente catalogar livros; ele é projetado para oferecer uma experiência completa, tanto para os funcionários da biblioteca quanto para os frequentadores. Com recursos que vão desde o cadastro detalhado de livros até a classificação de membros com base em seu comportamento de empréstimo, o Saber+ otimiza cada aspecto da operação bibliotecária.
-    "
+    "O "Saber+" é um sistema completo dedicado à organização e gestão eficiente de bibliotecas.
+    Desenvolvido para atender às necessidades específicas de bibliotecários e usuários, é uma ferramenta poderosa que simplifica o gerenciamento de acervo, o cadastro de membros e a facilitação do acesso à informação. 
+    Este sistema inovador vai além de simplesmente catalogar livros; ele é projetado para oferecer uma experiência completa, tanto para os funcionários da biblioteca quanto para os frequentadores. 
+    Com recursos que vão desde o cadastro detalhado de livros até a classificação de membros com base em seu comportamento de empréstimo, o Saber+ otimiza cada aspecto da operação bibliotecária."
 ...
