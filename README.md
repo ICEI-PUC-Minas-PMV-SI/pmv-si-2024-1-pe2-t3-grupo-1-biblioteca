@@ -11,16 +11,16 @@ da operação bibliotecária.
 
 * Integrantes:
 
-- Rafael Vinícius da Silva
+    Rafael Vinícius da Silva
+  
+    Pedro Augusto Teixeira 
 
-- Pedro Augusto Teixeira 
+    Cristiano Henrique Amorim
 
-- Cristiano Henrique Amorim
+    João Alberto
 
-- João Alberto
-
-- Anna Carolina Saldanha de Lima
+    Anna Carolina Saldanha de Lima
 
 * Professora:
 
-- Juliana Amaral Baroni de Carvalho
+    Juliana Amaral Baroni de Carvalho
