@@ -6,9 +6,10 @@ Os principais documentos a serem produzidos são:
 
 
 * `diagrama entidade-relacionamento (DER)`
-	* Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+	* ![DER](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t3-grupo-2-biblioteca/assets/142620882/59c6f126-b247-4036-a4f2-140b53728dff)
 
 * `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+	* ![Modelo Relacional](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t3-grupo-2-biblioteca/assets/142620882/97ed75c8-d3a0-47f7-81b6-146ca0cdd7dd)
+
 
 Demais artefatos que julgar pertinentes.
